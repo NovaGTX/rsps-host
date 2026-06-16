@@ -1,6 +1,6 @@
 title=OpenRune Server
 adverturl=http://www.runescape.com/g=oldscape/bare_advert.ws
-codebase=http://nova-soft.ddns.net/
+codebase=http://108.67.165.12/
 cachedir=openrune
 storebase=0
 initial_jar=gamepack_2506588.jar
