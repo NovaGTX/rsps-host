@@ -1,7 +1,7 @@
 config:
   - name: OpenRune Server
     jav_config_url: https://novagtx.github.io/rsps-host/jav_config.ws
-    revision: 238.1
+    revision: 239.1
     modulus: ba5f9be5451ac5a9aed9faf27688c8b4f6f136e270d96ac855252f09acfc145cbd3a289a0274fc654dd5d9831a8829b94acbe0cd810a343ef9f2b835fd5bf6e611ff15dc715b4ba95e34ffc8b0400ed17d8fb63bc039a6c04c6a5b87625b81aa02eb64f0c495b718242cb5833e15a5129dd2afb90d78042ae86de8a8281ca5ad
     varp_count: 15000
     game_server_port: 43594

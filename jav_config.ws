@@ -23,7 +23,7 @@ applet_minheight=503
 applet_maxwidth=5760
 applet_maxheight=2160
 msg=lang0=English
-msg=tandc=This game is copyright (c) 1999 - 2025 Jagex Ltd.\Use of this game is subject to our ["https://legal.jagex.com/docs/terms"Terms and Conditions] and ["https://legal.jagex.com/docs/policies/privacy"Privacy Policy]. ["https://legal.jagex.com/docs/policies/privacy/exercising-your-rights"Do Not Sell Or Share My Personal Information].
+msg=tandc=This game is copyright © 1999 - 2025 Jagex Ltd.\Use of this game is subject to our ["https://legal.jagex.com/docs/terms"Terms and Conditions] and ["https://legal.jagex.com/docs/policies/privacy"Privacy Policy]. ["https://legal.jagex.com/docs/policies/privacy/exercising-your-rights"Do Not Sell Or Share My Personal Information].
 msg=options=Options
 msg=language=Language
 msg=changes_on_restart=Your changes will take effect when you next start this program.
@@ -50,7 +50,7 @@ param=4=1
 param=7=0
 param=13=.runescape.com
 param=18=
-param=25=238
+param=25=239
 param=5=1
 param=6=0
 param=2=https://payments.jagex.com/
